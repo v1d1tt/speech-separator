@@ -119,3 +119,5 @@ python app/app.py
 ```
 
 The application will launch and automatically output a public Gradio URL (e.g., https://xxxxxxxx.gradio.live). Open this URL in any browser to upload your audio mixtures and experience the live deflationary extraction!
+
+Status: will be updated soon!
